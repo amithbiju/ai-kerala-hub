@@ -11,6 +11,7 @@ export default function Navbar() {
   const navLinks = [
     { href: '/', label: 'Home' },
     { href: '/paths', label: 'Learning Paths' },
+    { href: '/programs', label: 'Programs' },
     { href: '/projects', label: 'Projects' },
     { href: '/circles', label: 'Learning Circles' },
     { href: '/partners', label: 'Partners' },
